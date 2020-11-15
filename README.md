@@ -81,11 +81,11 @@ Untested on mac, though theoretically the same should apply to mac as windows - 
 	*
 	$ git clone https://github.com/Sifter-Ex/PlugPack; cd PlugPack; bash plugin.sh
 
-    [!] For a single plugin installation, instructions can be found in the corresponding repo
-    + cPlug - https://github.com/Sifter-Ex/cPlug
-    + gPlug - https://github.com/Sifter-Ex/gPlug
-    + mPlug - https://github.com/Sifter-Ex/mPlug
-    + fPlug - https://github.com/Sifter-Ex/fPlug
+	[!] For a single plugin installation, instructions can be found in the corresponding repo
+	+ cPlug - https://github.com/Sifter-Ex/cPlug
+	+ gPlug - https://github.com/Sifter-Ex/gPlug
+	+ mPlug - https://github.com/Sifter-Ex/mPlug
+	+ fPlug - https://github.com/Sifter-Ex/fPlug
   
 ---------------------------------------------------------------------------------------------------------------------
 
