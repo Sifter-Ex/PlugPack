@@ -11,10 +11,9 @@
 	<img align="center" src="https://img.shields.io/badge/Sifter Version-Violet-violet">
 <br />
 	<img align="center" src="https://img.shields.io/badge/@Codename:-c-yellowgreen">
-	<img align="center" src="https://img.shields.io/badge/Version-Alpha-green">
 </p>
 
-# *G.Ex*
+# *C.Ex*
 <strong><em>s1l3nt78</em></strong>
 <br>
 <strong><em>~The Dead Bunny Collective~</em></strong>
@@ -28,11 +27,13 @@
 # Release
 
 	@Codename: c
+	@Version: .2
+	- Added functionality to start a teamserver hosted on a remote server
 
 <br>
-<em>[<strong>Sifter | Violet's</strong>] latest release's zip package can be downloaded from <a href="https://github.com/s1l3nt78/sifter/archive/master.zip"><strong>here</strong></a></em>
+<em>[<strong>Sifter's</strong>] latest release's zip package can be downloaded from <a href="https://github.com/s1l3nt78/sifter/archive/master.zip"><strong>here</strong></a></em>
 <br />
-<em>[<strong>Sifter | Violets's</strong>] latest .deb package is also available for download from <a href="https://github.com/s1l3nt78/sifter/releases/download/v11/sifter_11.deb"><strong>here</strong></a></em>
+<em>[<strong>Sifter's</strong>] latest .deb package is also available for download from <a href="https://github.com/s1l3nt78/sifter/releases/download/v11/sifter_11.deb"><strong>here</strong></a></em>
 <br />
 <em>Older Releases can be found <a href="https://github.com/s1l3nt78/sifter/archive/"><strong>here</strong></a></em>
 <br>
@@ -49,7 +50,8 @@
 - <a href="https://github.com/Sifter-Ex/fPlug">F</a> - Sifter's <em>f</em> extention provides the DanderFuzz Exploitational Plugin for Sifter
 <br />&emsp;&emsp;	'--> Framework created by the <a href="#">EquationGroup</a> courtesy of <a href="#">The Shadow Brokers</a><br />
   - <a href="https://github.com/Sifter-Ex/mPlug">M</a> - Sifter's <em>m</em> extention provided malware analysis tools.
-- <a href="https://github.com/Sifter-Ex/cPlug">C</a> - Sifter's <em>c</em> extention is a small script to allow users to use CobaltStrike from within sifter. (A copy of CobaltStrike will <strong>NOT</strong> be provided)
+<br />-<a href="https://github.com/Sifter-Ex/cPlug">C</a> - Sifter's c extention is just a small script allowing CobaltStrike to be added to exploitation frameworks.
+<br />   (A copy of CobaltStrike will NOT be provided, You must provide your own)
 </details>
 
 ---------------------------------------------------------------------------------------------------------------------
@@ -64,18 +66,23 @@ menu within Sifter. <br />
 
 	This Repo contains:
 	- plug-C.sh
-		-- Runtime script starting CobaltStrike & the TeamServer from within Sifter
+		└── Runtime script starting CobaltStrike & the TeamServer from within Sifter
 
 	- AggressorScripts_CSv3
-		= Aggressor Scripts for CobaltStrike Version 3+
-		-- cobalt_strike_extention_kit (https://github.com/josephkingstone/cobalt_strike_extension_kit)
-		-- Arsenal (https://github.com/Cliov/Arsenal)
-		-- AggressorScripts (https://github.com/bluscreenofjeff/AggressorScripts)
-
+		├ Aggressor Scripts for CobaltStrike Version 3+
+		├── cobalt_strike_extention_kit https://github.com/josephkingstone/cobalt_strike_extension_kit
+		├── Arsenal 			https://github.com/Cliov/Arsenal
+		├── AggressorScripts 		https://github.com/bluscreenofjeff/AggressorScripts
+		├── Cactustorch			https://github.com/mdsecactivebreach/CACTUSTORCH
+		├── agcollection		https://github.com/michalkoczwara/aggressor_scripts_collection
+		├── kits			https://github.com/bytecod3r/Cobaltstrike-Aggressor-Scripts-Collection
+		├── BypassAV			https://github.com/hack2fun/BypassAV
+		└── Landon			https://github.com/k8gege/Aggressor
+		
 	- AggressorScripts_CSv4
-		= Aggressor Scripts for CobaltStrike Version 4+
-		-- cobalt-arsenal (https://github.com/mgeeky/cobalt-arsenal)
-		-- aggressor-scripts     https://github.com/threatexpress/aggressor-scripts
+		├ Aggressor Scripts for CobaltStrike Version 4+
+		├── cobalt-arsenal 		https://github.com/mgeeky/cobalt-arsenal
+		└── aggressor-scripts     	https://github.com/threatexpress/aggressor-scripts
 
 ---------------------------------------------------------------------------------------------------------------------
 

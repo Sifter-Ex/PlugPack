@@ -109,7 +109,7 @@ echo "		       ▀                                                         "
 		cd /opt/sifter
 		sifter -m
 	elif [[ ${CMM} == "info" ]]; then
-        	xterm -e bash /opt/sifter/info/info.sh &
+        	xterm -e bash /opt/sifter/files/info/info.sh &
 		fuzzyspritz
 	else
 		echo -e "${ORNG}[${RED}!${ORNG}] ${YLW}Invalid option selected, please choose\nthe corresponding module number${NC}"
