@@ -1,3 +1,0 @@
-set PSEXEC_SERVICE {
-	return "spoolsv";
-}

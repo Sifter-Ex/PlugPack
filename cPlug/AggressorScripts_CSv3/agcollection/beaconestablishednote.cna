@@ -1,3 +1,0 @@
-on beacon_initial {
-	bnote($1,"Established: " . formatDate('MM/dd/yyyy HH:mm:ss (z)'));
-}

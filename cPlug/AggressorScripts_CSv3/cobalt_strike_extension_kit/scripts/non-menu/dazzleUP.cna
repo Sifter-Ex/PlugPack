@@ -1,3 +1,0 @@
-alias dazzleUP {
-	bdllspawn($1, script_resource("exe/dazzleUP_Reflective_DLL.dll"), $2, "dazzleUP", 5000, false);
-}

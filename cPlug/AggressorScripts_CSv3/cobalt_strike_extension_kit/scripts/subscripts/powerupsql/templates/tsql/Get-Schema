@@ -1,9 +1,0 @@
-
-SELECT *
-FROM information_schema.schemata
-
-
-SELECT  s.Name, u.*
-FROM    sys.schemas s
-        INNER JOIN sys.sysusers u
-            ON u.uid = s.principal_id
